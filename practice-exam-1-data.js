@@ -53,7 +53,7 @@
         domain,
         task: ({ "Domain 1": "1.1", "Domain 2": "2.1", "Domain 3": "3.1", "Domain 4": "4.1" })[domain],
         topic: "Practice Exam 1",
-        trigger: "Use the requirement to eliminate distractors before revealing the supplied answer.",
+        trigger: window.AWS_EXAM_TRIGGER.fromQuestion(question),
         explanation: "The supplied practice-exam answer key marks " + answerLetters.join(", ") + " as correct."
       });
     }
@@ -66,4 +66,3 @@
 
   window.PRACTICE_EXAM_1_QUESTIONS = parseQuestions(SOURCE);
 })();
-

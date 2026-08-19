@@ -79,7 +79,7 @@
         domain: card.domain,
         task: ({ "Domain 1": "1.1", "Domain 2": "2.1", "Domain 3": "3.1", "Domain 4": "4.1" })[card.domain],
         topic: "Quiz 2.0",
-        trigger: "Identify the AWS term that best matches the supplied definition.",
+        trigger: window.AWS_EXAM_TRIGGER.fromDefinition(card.prompt),
         explanation: "The supplied term for this definition is " + card.answer + "."
       };
     });
