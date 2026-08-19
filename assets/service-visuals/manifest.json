@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Amazon Athena",
+    "category": "Analytics",
+    "file": "amazon-athena.svg"
+  },
+  {
+    "name": "Amazon EMR",
+    "category": "Analytics",
+    "file": "amazon-emr.svg"
+  },
+  {
+    "name": "AWS Glue",
+    "category": "Analytics",
+    "file": "aws-glue.svg"
+  },
+  {
+    "name": "Amazon Kinesis",
+    "category": "Analytics",
+    "file": "amazon-kinesis.svg"
+  },
+  {
+    "name": "Amazon OpenSearch Service",
+    "category": "Analytics",
+    "file": "amazon-opensearch-service.svg"
+  },
+  {
+    "name": "Amazon QuickSight",
+    "category": "Analytics",
+    "file": "amazon-quicksight.svg"
+  },
+  {
+    "name": "Amazon Redshift",
+    "category": "Analytics",
+    "file": "amazon-redshift.svg"
+  },
+  {
+    "name": "Amazon EventBridge",
+    "category": "Application Integration",
+    "file": "amazon-eventbridge.svg"
+  },
+  {
+    "name": "Amazon SNS",
+    "category": "Application Integration",
+    "file": "amazon-sns.svg"
+  },
+  {
+    "name": "Amazon SQS",
+    "category": "Application Integration",
+    "file": "amazon-sqs.svg"
+  },
+  {
+    "name": "AWS Step Functions",
+    "category": "Application Integration",
+    "file": "aws-step-functions.svg"
+  },
+  {
+    "name": "Amazon Connect",
+    "category": "Business Applications",
+    "file": "amazon-connect.svg"
+  },
+  {
+    "name": "Amazon SES",
+    "category": "Business Applications",
+    "file": "amazon-ses.svg"
+  },
+  {
+    "name": "AWS Budgets",
+    "category": "Cloud Financial Management",
+    "file": "aws-budgets.svg"
+  },
+  {
+    "name": "AWS Cost and Usage Reports",
+    "category": "Cloud Financial Management",
+    "file": "aws-cost-and-usage-reports.svg"
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "category": "Cloud Financial Management",
+    "file": "aws-cost-explorer.svg"
+  },
+  {
+    "name": "AWS Marketplace",
+    "category": "Cloud Financial Management",
+    "file": "aws-marketplace.svg"
+  },
+  {
+    "name": "AWS Batch",
+    "category": "Compute",
+    "file": "aws-batch.svg"
+  },
+  {
+    "name": "Amazon EC2",
+    "category": "Compute",
+    "file": "amazon-ec2.svg"
+  },
+  {
+    "name": "AWS Elastic Beanstalk",
+    "category": "Compute",
+    "file": "aws-elastic-beanstalk.svg"
+  },
+  {
+    "name": "Amazon Lightsail",
+    "category": "Compute",
+    "file": "amazon-lightsail.svg"
+  },
+  {
+    "name": "AWS Outposts",
+    "category": "Compute",
+    "file": "aws-outposts.svg"
+  },
+  {
+    "name": "Amazon ECR",
+    "category": "Containers",
+    "file": "amazon-ecr.svg"
+  },
+  {
+    "name": "Amazon ECS",
+    "category": "Containers",
+    "file": "amazon-ecs.svg"
+  },
+  {
+    "name": "Amazon EKS",
+    "category": "Containers",
+    "file": "amazon-eks.svg"
+  },
+  {
+    "name": "AWS Support",
+    "category": "Customer Enablement",
+    "file": "aws-support.svg"
+  },
+  {
+    "name": "Amazon Aurora",
+    "category": "Database",
+    "file": "amazon-aurora.svg"
+  },
+  {
+    "name": "Amazon DocumentDB",
+    "category": "Database",
+    "file": "amazon-documentdb.svg"
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "category": "Database",
+    "file": "amazon-dynamodb.svg"
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "category": "Database",
+    "file": "amazon-elasticache.svg"
+  },
+  {
+    "name": "Amazon Neptune",
+    "category": "Database",
+    "file": "amazon-neptune.svg"
+  },
+  {
+    "name": "Amazon RDS",
+    "category": "Database",
+    "file": "amazon-rds.svg"
+  },
+  {
+    "name": "AWS CLI",
+    "category": "Developer Tools",
+    "file": "aws-cli.svg"
+  },
+  {
+    "name": "AWS CodeBuild",
+    "category": "Developer Tools",
+    "file": "aws-codebuild.svg"
+  },
+  {
+    "name": "AWS CodePipeline",
+    "category": "Developer Tools",
+    "file": "aws-codepipeline.svg"
+  },
+  {
+    "name": "AWS X-Ray",
+    "category": "Developer Tools",
+    "file": "aws-x-ray.svg"
+  },
+  {
+    "name": "Amazon AppStream 2.0",
+    "category": "End User Computing",
+    "file": "amazon-appstream-2-0.svg"
+  },
+  {
+    "name": "Amazon WorkSpaces",
+    "category": "End User Computing",
+    "file": "amazon-workspaces.svg"
+  },
+  {
+    "name": "Amazon WorkSpaces Secure Browser",
+    "category": "End User Computing",
+    "file": "amazon-workspaces-secure-browser.svg"
+  },
+  {
+    "name": "AWS Amplify",
+    "category": "Frontend Web and Mobile",
+    "file": "aws-amplify.svg"
+  },
+  {
+    "name": "AWS AppSync",
+    "category": "Frontend Web and Mobile",
+    "file": "aws-appsync.svg"
+  },
+  {
+    "name": "AWS IoT Core",
+    "category": "Internet of Things",
+    "file": "aws-iot-core.svg"
+  },
+  {
+    "name": "Amazon Comprehend",
+    "category": "Machine Learning",
+    "file": "amazon-comprehend.svg"
+  },
+  {
+    "name": "Amazon Kendra",
+    "category": "Machine Learning",
+    "file": "amazon-kendra.svg"
+  },
+  {
+    "name": "Amazon Lex",
+    "category": "Machine Learning",
+    "file": "amazon-lex.svg"
+  },
+  {
+    "name": "Amazon Polly",
+    "category": "Machine Learning",
+    "file": "amazon-polly.svg"
+  },
+  {
+    "name": "Amazon Q",
+    "category": "Machine Learning",
+    "file": "amazon-q.svg"
+  },
+  {
+    "name": "Amazon Rekognition",
+    "category": "Machine Learning",
+    "file": "amazon-rekognition.svg"
+  },
+  {
+    "name": "Amazon SageMaker AI",
+    "category": "Machine Learning",
+    "file": "amazon-sagemaker-ai.svg"
+  },
+  {
+    "name": "Amazon Textract",
+    "category": "Machine Learning",
+    "file": "amazon-textract.svg"
+  },
+  {
+    "name": "Amazon Transcribe",
+    "category": "Machine Learning",
+    "file": "amazon-transcribe.svg"
+  },
+  {
+    "name": "Amazon Translate",
+    "category": "Machine Learning",
+    "file": "amazon-translate.svg"
+  },
+  {
+    "name": "AWS Auto Scaling",
+    "category": "Management and Governance",
+    "file": "aws-auto-scaling.svg"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "category": "Management and Governance",
+    "file": "aws-cloudformation.svg"
+  },
+  {
+    "name": "AWS CloudTrail",
+    "category": "Management and Governance",
+    "file": "aws-cloudtrail.svg"
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "category": "Management and Governance",
+    "file": "amazon-cloudwatch.svg"
+  },
+  {
+    "name": "AWS Compute Optimizer",
+    "category": "Management and Governance",
+    "file": "aws-compute-optimizer.svg"
+  },
+  {
+    "name": "AWS Config",
+    "category": "Management and Governance",
+    "file": "aws-config.svg"
+  },
+  {
+    "name": "AWS Control Tower",
+    "category": "Management and Governance",
+    "file": "aws-control-tower.svg"
+  },
+  {
+    "name": "AWS Health Dashboard",
+    "category": "Management and Governance",
+    "file": "aws-health-dashboard.svg"
+  },
+  {
+    "name": "AWS License Manager",
+    "category": "Management and Governance",
+    "file": "aws-license-manager.svg"
+  },
+  {
+    "name": "AWS Management Console",
+    "category": "Management and Governance",
+    "file": "aws-management-console.svg"
+  },
+  {
+    "name": "AWS Organizations",
+    "category": "Management and Governance",
+    "file": "aws-organizations.svg"
+  },
+  {
+    "name": "AWS Service Catalog",
+    "category": "Management and Governance",
+    "file": "aws-service-catalog.svg"
+  },
+  {
+    "name": "Service Quotas",
+    "category": "Management and Governance",
+    "file": "service-quotas.svg"
+  },
+  {
+    "name": "AWS Systems Manager",
+    "category": "Management and Governance",
+    "file": "aws-systems-manager.svg"
+  },
+  {
+    "name": "AWS Trusted Advisor",
+    "category": "Management and Governance",
+    "file": "aws-trusted-advisor.svg"
+  },
+  {
+    "name": "AWS Well-Architected Tool",
+    "category": "Management and Governance",
+    "file": "aws-well-architected-tool.svg"
+  },
+  {
+    "name": "AWS Application Discovery Service",
+    "category": "Migration and Transfer",
+    "file": "aws-application-discovery-service.svg"
+  },
+  {
+    "name": "AWS Application Migration Service",
+    "category": "Migration and Transfer",
+    "file": "aws-application-migration-service.svg"
+  },
+  {
+    "name": "AWS DMS",
+    "category": "Migration and Transfer",
+    "file": "aws-dms.svg"
+  },
+  {
+    "name": "Migration Evaluator",
+    "category": "Migration and Transfer",
+    "file": "migration-evaluator.svg"
+  },
+  {
+    "name": "AWS Migration Hub",
+    "category": "Migration and Transfer",
+    "file": "aws-migration-hub.svg"
+  },
+  {
+    "name": "AWS Schema Conversion Tool",
+    "category": "Migration and Transfer",
+    "file": "aws-schema-conversion-tool.svg"
+  },
+  {
+    "name": "AWS Snow Family",
+    "category": "Migration and Transfer",
+    "file": "aws-snow-family.svg"
+  },
+  {
+    "name": "Amazon API Gateway",
+    "category": "Networking and Content Delivery",
+    "file": "amazon-api-gateway.svg"
+  },
+  {
+    "name": "Amazon CloudFront",
+    "category": "Networking and Content Delivery",
+    "file": "amazon-cloudfront.svg"
+  },
+  {
+    "name": "AWS Direct Connect",
+    "category": "Networking and Content Delivery",
+    "file": "aws-direct-connect.svg"
+  },
+  {
+    "name": "AWS Global Accelerator",
+    "category": "Networking and Content Delivery",
+    "file": "aws-global-accelerator.svg"
+  },
+  {
+    "name": "AWS PrivateLink",
+    "category": "Networking and Content Delivery",
+    "file": "aws-privatelink.svg"
+  },
+  {
+    "name": "Amazon Route 53",
+    "category": "Networking and Content Delivery",
+    "file": "amazon-route-53.svg"
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "category": "Networking and Content Delivery",
+    "file": "aws-transit-gateway.svg"
+  },
+  {
+    "name": "Amazon VPC",
+    "category": "Networking and Content Delivery",
+    "file": "amazon-vpc.svg"
+  },
+  {
+    "name": "AWS VPN",
+    "category": "Networking and Content Delivery",
+    "file": "aws-vpn.svg"
+  },
+  {
+    "name": "AWS Site-to-Site VPN",
+    "category": "Networking and Content Delivery",
+    "file": "aws-site-to-site-vpn.svg"
+  },
+  {
+    "name": "AWS Client VPN",
+    "category": "Networking and Content Delivery",
+    "file": "aws-client-vpn.svg"
+  },
+  {
+    "name": "AWS Artifact",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-artifact.svg"
+  },
+  {
+    "name": "AWS Audit Manager",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-audit-manager.svg"
+  },
+  {
+    "name": "AWS Certificate Manager",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-certificate-manager.svg"
+  },
+  {
+    "name": "AWS CloudHSM",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-cloudhsm.svg"
+  },
+  {
+    "name": "Amazon Cognito",
+    "category": "Security, Identity, and Compliance",
+    "file": "amazon-cognito.svg"
+  },
+  {
+    "name": "Amazon Detective",
+    "category": "Security, Identity, and Compliance",
+    "file": "amazon-detective.svg"
+  },
+  {
+    "name": "AWS Directory Service",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-directory-service.svg"
+  },
+  {
+    "name": "AWS Firewall Manager",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-firewall-manager.svg"
+  },
+  {
+    "name": "Amazon GuardDuty",
+    "category": "Security, Identity, and Compliance",
+    "file": "amazon-guardduty.svg"
+  },
+  {
+    "name": "AWS IAM",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-iam.svg"
+  },
+  {
+    "name": "AWS IAM Identity Center",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-iam-identity-center.svg"
+  },
+  {
+    "name": "Amazon Inspector",
+    "category": "Security, Identity, and Compliance",
+    "file": "amazon-inspector.svg"
+  },
+  {
+    "name": "AWS KMS",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-kms.svg"
+  },
+  {
+    "name": "Amazon Macie",
+    "category": "Security, Identity, and Compliance",
+    "file": "amazon-macie.svg"
+  },
+  {
+    "name": "AWS RAM",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-ram.svg"
+  },
+  {
+    "name": "AWS Secrets Manager",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-secrets-manager.svg"
+  },
+  {
+    "name": "AWS Security Hub",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-security-hub.svg"
+  },
+  {
+    "name": "AWS Shield",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-shield.svg"
+  },
+  {
+    "name": "AWS WAF",
+    "category": "Security, Identity, and Compliance",
+    "file": "aws-waf.svg"
+  },
+  {
+    "name": "AWS Fargate",
+    "category": "Serverless",
+    "file": "aws-fargate.svg"
+  },
+  {
+    "name": "AWS Lambda",
+    "category": "Serverless",
+    "file": "aws-lambda.svg"
+  },
+  {
+    "name": "AWS Backup",
+    "category": "Storage",
+    "file": "aws-backup.svg"
+  },
+  {
+    "name": "Amazon EBS",
+    "category": "Storage",
+    "file": "amazon-ebs.svg"
+  },
+  {
+    "name": "Amazon EFS",
+    "category": "Storage",
+    "file": "amazon-efs.svg"
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "category": "Storage",
+    "file": "aws-elastic-disaster-recovery.svg"
+  },
+  {
+    "name": "Amazon FSx",
+    "category": "Storage",
+    "file": "amazon-fsx.svg"
+  },
+  {
+    "name": "Amazon S3",
+    "category": "Storage",
+    "file": "amazon-s3.svg"
+  },
+  {
+    "name": "Amazon S3 Glacier",
+    "category": "Storage",
+    "file": "amazon-s3-glacier.svg"
+  },
+  {
+    "name": "AWS Storage Gateway",
+    "category": "Storage",
+    "file": "aws-storage-gateway.svg"
+  }
+]
